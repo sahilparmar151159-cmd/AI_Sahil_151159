@@ -1,5 +1,5 @@
-#NAME : DEVENDRA ODEDARA
-#ENO: 92600584011
+# SAHIL PARMAR
+# 92600584036
 
 from itertools import permutations
 
