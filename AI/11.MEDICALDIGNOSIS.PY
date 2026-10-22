@@ -1,5 +1,5 @@
-#NAME : DEVENDRA ODEDARA
-#ENO: 92600584011
+# SAHIL PARMAR
+# 92600584036
 
 print("===== Expert System =====")
 print("Answer the following questions with yes or no.")
