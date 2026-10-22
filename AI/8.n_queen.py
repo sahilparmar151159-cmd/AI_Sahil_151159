@@ -1,6 +1,5 @@
-#NAME : DEVENDRA ODEDARA
-#ENO: 92600584011
-
+# SAHIL PARMAR
+# 92600584036
 def solve_n_queens(n):
     board = [-1] * n
 
